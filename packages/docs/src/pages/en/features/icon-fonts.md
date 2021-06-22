@@ -311,7 +311,7 @@ export default new Vuetify({
 })
 ```
 
-If you are using a icon library that does not have a preset, you can create a custom one.
+If you are using an icon library that does not have a preset, you can create a custom one.
 
 ```js
 // src/plugins/vuetify.js
